@@ -1,0 +1,8 @@
+---
+layout: default
+img: choose_action.png
+category: Features
+title: Set good and bad actions
+description: |
+---
+  Set some good or bad actions that your kids can do to earn points (room cleaning, clearing table, ...) or lose them (dirty wording, bad school results, ...).
