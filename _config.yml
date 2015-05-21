@@ -28,3 +28,6 @@ social:
   - title: google+
     icon: google-plus
     url: https://plus.google.com/communities/109171812389358134647
+  - title: email
+    icon: envelope-o
+    url: mailto:info@guguweb.com

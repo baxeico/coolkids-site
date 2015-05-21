@@ -1,0 +1,19 @@
+---
+layout: default
+img: matt.png
+category: Features
+title: The game begins
+description: |
+---
+  Your kids will be motivated to fulfill good actions and avoid bad ones to reach their goal.
+
+  Action after action, goal after goal, you'll discover that your kids are becoming more responsible and careful.
+  
+  You can also set the same goal for more kids, so that the success of one will be the success of all and your kids will motivate each other.
+  
+  With a simple and lean interface we hope that CoolKids will make the education of your kids a little more funny and that the app will become an useful tool for your fundamental role of educator.
+  
+  ---
+  
+  [![Get it on Google Play](https://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.guguweb.coolkids)
+  
