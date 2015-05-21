@@ -1,0 +1,8 @@
+---
+layout: default
+img: kids.png
+category: Features
+title: Set goals for your kids
+description: |
+---
+  Give your kids some goals to motivate them: a goal is a small award and can be an ice cream, a new ball, whatever...
