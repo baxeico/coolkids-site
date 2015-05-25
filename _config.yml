@@ -22,12 +22,12 @@ permalink: pretty
 # ----------------------- #
 
 social:
+  - title: facebook
+    icon: facebook
+    url: https://www.facebook.com/coolkidsapp
+  - title: google+
+    icon: google-plus
+    url: https://plus.google.com/communities/117995512231647980987
   - title: twitter
     icon: twitter
     url: https://twitter.com/coolkidsapp
-  - title: google+
-    icon: google-plus
-    url: https://plus.google.com/communities/109171812389358134647
-  - title: email
-    icon: envelope-o
-    url: mailto:info@guguweb.com
